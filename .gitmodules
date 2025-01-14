@@ -1,0 +1,6 @@
+[submodule "Turbin3-PreReq1"]
+	path = Turbin3-PreReq1
+	url = https://github.com/ImmortalSul/Turbin3-PreReq1.git
+[submodule "Turbin3-PreReq2"]
+	path = Turbin3-PreReq2
+	url = https://github.com/ImmortalSul/Turbin3-PreReq2.git
